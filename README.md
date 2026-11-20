@@ -10,7 +10,7 @@ Sistema web de agendamento de serviços de uma **oficina mecânica de bairro**: 
 | **Responsável pela manutenção** | Marco Antonio Peixoto de Carvalho |
 | **Turma** | Análise e Desenvolvimento de Sistemas|
 | **Opção** | Agendamento de Serviços |
-| **Versão atual** | 1.0.0 |
+| **Versão atual** | 1.1.0 |
 
 ---
 
@@ -143,6 +143,7 @@ Java 21 · Spring Boot 4 · Spring MVC · Thymeleaf · Bootstrap 5 · Spring Dat
 | Versão | Data | Descrição |
 |---|---|---|
 | 1.0.0 | 11/11/2026 | Primeira versão estável, entregue pela equipe de desenvolvimento e recebida para manutenção |
+| 1.1.0 | 25/11/2026 | Primeira atualização estável |
 
 ## Usuários de teste
 
