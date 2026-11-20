@@ -33,9 +33,10 @@ public class Servico {
     @Column(nullable = false, length = 80)
     private String nome;
 
-    /** Detalhes do serviço. */
+    /** Descrição do serviço. */
+    @NotBlank(message = "Campo obrigatório.")
     @Size(max = 255, message = "Use no máximo 255 caracteres.")
-    @Column(length = 255)
+    @Column(nullable = false, length = 255)
     private String descricao;
 
     /** Tempo necessário, em minutos. */

@@ -15,6 +15,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
+import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
 
@@ -45,7 +46,8 @@ public class Agendamento {
     @Column(nullable = false)
     private LocalTime horario;
 
-    /** Observação (opcional). */
+    /** Observação. */
+    @NotBlank(message = "Campo obrigatório.")
     @Size(max = 255, message = "Use no máximo 255 caracteres.")
     @Column(length = 255)
     private String observacao;
