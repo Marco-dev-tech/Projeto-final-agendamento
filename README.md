@@ -6,8 +6,8 @@
 
 | | |
 |---|---|
-| **Aluno(a)** | Seu nome completo |
-| **Turma** | |
+| **Aluno(a)** | Marco Antonio Peixoto de Carvalho |
+| **Turma** | Análise e Desenvolvimento de Sistemas|
 | **Opção escolhida** | Ordens de Serviço · Controle de Estoque · Agendamento de Serviços · Proposta própria |
 | **Versão atual** | 0.1.0 |
 
