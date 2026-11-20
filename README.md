@@ -62,6 +62,7 @@ A oficina marca os atendimentos em um caderno e pelo WhatsApp. Acontecem dois cl
 | RN02 | Não é permitido agendar em data e horário que já passaram. |
 | RN03 | Só um agendamento na situação Agendado pode ser concluído ou cancelado. |
 | RN04 | Duração e preço de um serviço não podem ser negativos. |
+| RN05 | É obrigatorio preencher todos os campos ao realizar um cadastro. |
 
 ---
 
