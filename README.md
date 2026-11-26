@@ -192,3 +192,15 @@ Java 21 · Spring Boot 4 · Spring MVC · Thymeleaf · Bootstrap 5 · Spring Dat
 - [x] Repositório no GitHub com commits frequentes
 - [x] README com a visão do projeto, como executar, usuários de teste, funcionalidades e telas
 - [x] Quadro Kanban atualizado
+      
+## 11. Indicadores de suporte (versão 1.1.0)
+
+| Indicador | Valor |
+|---|---|
+| Chamados registrados | 3 |
+| Chamados resolvidos | 2 |
+| Taxa de resolução | 66% |
+| Tempo médio de resolução | 20-30 minutos |
+| Chamados por tipo | 2 corretiva, 1 perfectivas |
+
+**O que vou fazer diferente na próxima versão: Corrigir o chamado 3** testar o limite de cada regra antes de publicar.
